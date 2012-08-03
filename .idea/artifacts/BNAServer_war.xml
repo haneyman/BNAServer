@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BNAServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bna.war">
+      <element id="artifact" artifact-name="BNAServer:war exploded" />
+    </root>
+  </artifact>
+</component>
